@@ -14,7 +14,8 @@
         <div class="content">
             <div class="content__post">
                 <h3>本文</h3>
-                <p>{{ $post->body }}</p>    
+                <p>{{ $post->body }}</p> 
+                <p1>{{ $post->updated_at }}</p1>
             </div>
         <div class='footer'>
             <a href='/'>back</a>
