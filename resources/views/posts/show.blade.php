@@ -16,7 +16,7 @@
                 <h3>本文</h3>
                 <p>{{ $post->body }}</p>    
             </div>
-        <div class='frooter'>
+        <div class='footer'>
             <a href='/'>back</a>
         </div>
     </body>
